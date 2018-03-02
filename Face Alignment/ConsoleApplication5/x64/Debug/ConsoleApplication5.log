@@ -1,0 +1,16 @@
+﻿  LBFRegressor.cpp
+e:\vs\consoleapplication5\consoleapplication5\tree.h(78): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\vs\consoleapplication5\consoleapplication5\lbfregressor.cpp(65): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs\consoleapplication5\consoleapplication5\lbfregressor.cpp(66): warning C4244: “初始化”: 从“const double”转换到“int”，可能丢失数据
+e:\vs\consoleapplication5\consoleapplication5\lbfregressor.cpp(67): warning C4244: “初始化”: 从“const double”转换到“int”，可能丢失数据
+e:\vs\consoleapplication5\consoleapplication5\lbfregressor.cpp(102): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+e:\vs\consoleapplication5\consoleapplication5\lbfregressor.cpp(128): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs\consoleapplication5\consoleapplication5\lbfregressor.cpp(129): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs\consoleapplication5\consoleapplication5\lbfregressor.cpp(137): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs\consoleapplication5\consoleapplication5\lbfregressor.cpp(138): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs\consoleapplication5\consoleapplication5\lbfregressor.cpp(148): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+e:\vs\consoleapplication5\consoleapplication5\lbfregressor.cpp(312): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs\consoleapplication5\consoleapplication5\lbfregressor.cpp(387): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\vs\consoleapplication5\consoleapplication5\lbfregressor.cpp(425): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  ConsoleApplication5.vcxproj -> E:\VS\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
+  ConsoleApplication5.vcxproj -> E:\VS\ConsoleApplication5\x64\Debug\ConsoleApplication5.pdb (Partial PDB)

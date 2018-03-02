@@ -1,0 +1,9 @@
+﻿  LBF.cpp
+e:\vs\consoleapplication5\consoleapplication5\Tree.h(78): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+LBF.cpp(105): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  71 of 1481 functions ( 4.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ConsoleApplication5.vcxproj -> E:\VS\ConsoleApplication5\x64\Release\ConsoleApplication5.exe

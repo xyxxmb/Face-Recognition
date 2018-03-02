@@ -1,0 +1,63 @@
+﻿  Facedetect.cpp
+e:\vs\consoleapplication5\consoleapplication5\Tree.h(78): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  LBF.cpp
+e:\vs\consoleapplication5\consoleapplication5\Tree.h(78): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+LBF.cpp(101): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  LBFRegressor.cpp
+e:\vs\consoleapplication5\consoleapplication5\Tree.h(78): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+LBFRegressor.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+LBFRegressor.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+LBFRegressor.cpp(65): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+LBFRegressor.cpp(66): warning C4244: “初始化”: 从“const double”转换到“int”，可能丢失数据
+LBFRegressor.cpp(67): warning C4244: “初始化”: 从“const double”转换到“int”，可能丢失数据
+LBFRegressor.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+LBFRegressor.cpp(102): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+LBFRegressor.cpp(128): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+LBFRegressor.cpp(129): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+LBFRegressor.cpp(137): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+LBFRegressor.cpp(138): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+LBFRegressor.cpp(148): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+LBFRegressor.cpp(287): warning C4018: “<”: 有符号/无符号不匹配
+LBFRegressor.cpp(311): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+LBFRegressor.cpp(337): warning C4018: “<”: 有符号/无符号不匹配
+LBFRegressor.cpp(365): warning C4018: “<”: 有符号/无符号不匹配
+LBFRegressor.cpp(370): warning C4018: “<”: 有符号/无符号不匹配
+LBFRegressor.cpp(388): warning C4018: “<”: 有符号/无符号不匹配
+LBFRegressor.cpp(492): warning C4018: “<”: 有符号/无符号不匹配
+  RandomForest.cpp
+e:\vs\consoleapplication5\consoleapplication5\Tree.h(78): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+RandomForest.cpp(28): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+RandomForest.cpp(34): warning C4244: “=”: 从“const double”转换到“int”，可能丢失数据
+  TestModel.cpp
+e:\vs\consoleapplication5\consoleapplication5\Tree.h(78): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+TestModel.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+TestModel.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
+  TrainModel.cpp
+e:\vs\consoleapplication5\consoleapplication5\Tree.h(78): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+TrainModel.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  Tree.cpp
+e:\vs\consoleapplication5\consoleapplication5\Tree.h(78): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+Tree.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+Tree.cpp(174): warning C4018: “<”: 有符号/无符号不匹配
+Tree.cpp(191): warning C4018: “<”: 有符号/无符号不匹配
+Tree.cpp(202): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+Tree.cpp(203): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+Tree.cpp(204): warning C4244: “=”: 从“const double”转换到“int”，可能丢失数据
+Tree.cpp(205): warning C4244: “=”: 从“const double”转换到“int”，可能丢失数据
+Tree.cpp(211): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+Tree.cpp(212): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+Tree.cpp(213): warning C4244: “=”: 从“const double”转换到“int”，可能丢失数据
+Tree.cpp(214): warning C4244: “=”: 从“const double”转换到“int”，可能丢失数据
+Tree.cpp(247): warning C4018: “<”: 有符号/无符号不匹配
+Tree.cpp(268): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+Tree.cpp(269): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+Tree.cpp(270): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+Tree.cpp(271): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+Tree.cpp(276): warning C4018: “<”: 有符号/无符号不匹配
+Tree.cpp(277): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+Tree.cpp(298): warning C4018: “<”: 有符号/无符号不匹配
+  Utils.cpp
+e:\vs\consoleapplication5\consoleapplication5\Tree.h(78): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+Utils.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+Utils.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+LINK : fatal error LNK1181: 无法打开输入文件“opencv_world320d.lib”
